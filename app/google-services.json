@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "602291518104",
+    "firebase_url": "https://uberclaseandroid.firebaseio.com",
+    "project_id": "uberclaseandroid",
+    "storage_bucket": "uberclaseandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602291518104:android:02d4d5be443a76ae87aeed",
+        "android_client_info": {
+          "package_name": "edu.daec.otrouber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602291518104-rtimapvmi2g5omldq6r1no6ceerre5ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB2e4KlWRELcF48Bb5sTTGaDV2bBzaVvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602291518104-rtimapvmi2g5omldq6r1no6ceerre5ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
